@@ -4,4 +4,4 @@
 
 - 📒 I’m currently learning в УрФУ
 - 🍩 Can write in programming languages: Python, C#, Rust
-- 🚀 Prefer operating systems: MacOS, Linux
+- 🚀 Prefer operating systems: MacOS, Arch Linux
