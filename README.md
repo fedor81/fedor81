@@ -4,5 +4,5 @@
 
 - 📒 I’m currently studying at Ural Federal University
 - 🚀 Can write in programming languages: Python, C#, Rust, Go
-- 🖥️ Like operating systems: MacOS, Arch Linux
+- 🖥️ Like operating systems: MacOS, Arch Linux, NixOS
 - 🍩 Have experience working with Django, Unity
